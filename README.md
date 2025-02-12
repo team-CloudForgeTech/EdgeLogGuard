@@ -130,7 +130,7 @@ elg query --from="2023-07-01" --to="now-1d" --filter="source='nginx' AND duratio
 ### 获取帮助渠道
 - **社区论坛**：https://sf-tech.zuotiya.com/
 - **紧急工单**：SF-TechAdmin@sftech.asia（周一至周五响应时间 ≤3h）（周六日响应时间 ≤1.5h）
-- **官方文档**：[https://docs.edgelogguard.com](点击访问)
+- **官方文档**：[点击访问](https://docs.edgelogguard.com))
 
 ---
 
